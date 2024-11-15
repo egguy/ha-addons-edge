@@ -1,9 +1,22 @@
 # Changelog since v0.1.7
+- ⬆️ Update Add-on base image to v15.0.3 (#91)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #87 from egguy/update-readme
+
+doc: Updated readme + clarification 
+- doc: Updated changelog 
+- Update README.md
+
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v15.0.2 (#90)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update grott digest to 3bfeec8 
 - ⬆️ Update Add-on base image to v15.0.1 
+- doc: Updated changelog 
+- Merge branch 'main' into update-readme 
+- doc: Updated readme 
 - ⬆️ Update grott digest to 4b526a8 
 - doc: updated README 
 - feat: Switched to the beta branch 
