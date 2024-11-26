@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/build-push-action action to v6.10.0 (#92)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v15.0.3 (#91)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
