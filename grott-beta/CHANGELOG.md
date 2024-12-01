@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update pytest to v8.3.4 (#94)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/bind-tools to v9.18.31-r0 (#93)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
