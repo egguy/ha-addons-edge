@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/setup-buildx-action action to v3.8.0 (#98)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update actions/cache action to v4.2.0 (#95)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
