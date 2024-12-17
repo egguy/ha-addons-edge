@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.32-r0 (#113)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-buildx-action action to v3.8.0 (#112)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
