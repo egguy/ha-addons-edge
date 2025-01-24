@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/build-push-action action to v6.13.0 (#102)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-qemu-action action to v3.3.0 (#101)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
