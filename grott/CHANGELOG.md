@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update Add-on base image to v16.1.0 (#122)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #101 from egguy/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v16 (major) 
