@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update actions/cache action to v4.2.1 (#123)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v16.1.0 (#122)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
