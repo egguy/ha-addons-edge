@@ -1,4 +1,12 @@
 # Changelog since v0.1.12
+- Merge pull request #125 from egguy/renovate/alpine_3_20-bind-tools-9.x
+
+⬆️ Update alpine_3_20/bind-tools to v9.18.34-r0 
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.34-r0 
+- Merge pull request #124 from egguy/renovate/docker-build-push-action-6.x
+
+⬆️ Update docker/build-push-action action to v6.14.0 
+- ⬆️ Update docker/build-push-action action to v6.14.0 
 - ⬆️ Update actions/cache action to v4.2.1 (#123)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
