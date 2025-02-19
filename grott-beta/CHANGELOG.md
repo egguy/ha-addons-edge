@@ -1,4 +1,28 @@
 # Changelog since v0.1.7
+- Merge pull request #106 from egguy/renovate/docker-setup-qemu-action-3.x
+
+⬆️ Update docker/setup-qemu-action action to v3.4.0 
+- Merge pull request #105 from egguy/renovate/docker-setup-buildx-action-3.x
+
+⬆️ Update docker/setup-buildx-action action to v3.9.0 
+- ⬆️ Update docker/setup-qemu-action action to v3.4.0 
+- ⬆️ Update docker/setup-buildx-action action to v3.9.0 
+- Merge pull request #108 from egguy/renovate/docker-build-push-action-6.x
+
+⬆️ Update docker/build-push-action action to v6.14.0 
+- Merge pull request #107 from egguy/renovate/actions-cache-4.x
+
+⬆️ Update actions/cache action to v4.2.1 
+- ⬆️ Update docker/build-push-action action to v6.14.0 
+- ⬆️ Update actions/cache action to v4.2.1 
+- Merge pull request #103 from egguy/renovate/alpine_3_20-bind-tools-9.x
+
+⬆️ Update alpine_3_20/bind-tools to v9.18.34-r0 
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.34-r0 
+- Merge pull request #97 from egguy/renovate/grott-digest
+
+⬆️ Update grott digest to 2122dc0 
+- ⬆️ Update grott digest to 2122dc0 
 - ⬆️ Update docker/build-push-action action to v6.13.0 (#102)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
