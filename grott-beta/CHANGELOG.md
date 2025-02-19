@@ -1,4 +1,8 @@
 # Changelog since v0.1.7
+- Merge pull request #96 from egguy/renovate/major-add-on-base-image
+
+⬆️ Update Add-on base image to v16 (major) 
+- ⬆️ Update Add-on base image to v16 
 - Merge pull request #106 from egguy/renovate/docker-setup-qemu-action-3.x
 
 ⬆️ Update docker/setup-qemu-action action to v3.4.0 
