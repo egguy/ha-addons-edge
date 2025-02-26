@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update docker/setup-buildx-action action to v3.10.0 (#127)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/build-push-action action to v6.15.0 (#126)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
