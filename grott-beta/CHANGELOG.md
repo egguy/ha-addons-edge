@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/build-push-action action to v6.15.0 (#109)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #96 from egguy/renovate/major-add-on-base-image
 
 ⬆️ Update Add-on base image to v16 (major) 
