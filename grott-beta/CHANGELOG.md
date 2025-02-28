@@ -1,4 +1,10 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/setup-qemu-action action to v3.6.0 (#113)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update actions/cache action to v4.2.2 (#112)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-qemu-action action to v3.5.0 (#111)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
