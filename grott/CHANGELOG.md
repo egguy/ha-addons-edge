@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update Add-on base image to v16.1.1 (#131)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-qemu-action action to v3.6.0 (#130)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
