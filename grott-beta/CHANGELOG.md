@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update pytest to v8.3.5 (#116)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update Add-on base image to v16.1.1 (#114)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
