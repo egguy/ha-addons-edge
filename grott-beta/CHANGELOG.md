@@ -1,4 +1,13 @@
 # Changelog since v0.1.7
+- Merge pull request #118 from egguy/feature/switch-to-alpha
+
+chore: Switched to alpha branch 
+- Merge pull request #117 from egguy/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v16.1.2 
+- Updated addon name 
+- chore: Switched to alpha branch 
+- ⬆️ Update Add-on base image to v16.1.2 
 - ⬆️ Update pytest to v8.3.5 (#116)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
