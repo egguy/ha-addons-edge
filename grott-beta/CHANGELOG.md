@@ -1,4 +1,8 @@
 # Changelog since v0.1.7
+- Merge pull request #115 from egguy/renovate/grott-digest
+
+⬆️ Update grott digest to acf84e3 
+- ⬆️ Update grott digest to acf84e3 
 - Merge pull request #118 from egguy/feature/switch-to-alpha
 
 chore: Switched to alpha branch 
