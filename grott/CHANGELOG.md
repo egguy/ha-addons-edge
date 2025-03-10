@@ -1,4 +1,8 @@
 # Changelog since v0.1.12
+- Merge pull request #134 from egguy/feature/master-new
+
+Updated branch 
+- Updated branch 
 - ⬆️ Update Add-on base image to v16.1.2 (#133)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
