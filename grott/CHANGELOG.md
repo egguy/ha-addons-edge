@@ -1,4 +1,13 @@
 # Changelog since v0.1.12
+- Merge pull request #136 from egguy/bugfix/load_layout
+
+fix: update script to load layout 
+- Merge pull request #135 from egguy/renovate/grott-digest
+
+⬆️ Update grott digest to 4d1a67a 
+- fix: Updated shellcheck 
+- fix: upldate script to load layout 
+- ⬆️ Update grott digest to 4d1a67a 
 - Merge pull request #134 from egguy/feature/master-new
 
 Updated branch 
