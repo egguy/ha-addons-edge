@@ -1,4 +1,9 @@
 # Changelog since v0.1.7
+- Merge pull request #119 from egguy/bugfix/load_from_config_dir
+
+fix: Updated dockerFile + run script to load layout 
+- fix: update for shellcheck 
+- fix: Updated dockerFile + run script to load layout 
 - Merge pull request #115 from egguy/renovate/grott-digest
 
 ⬆️ Update grott digest to acf84e3 

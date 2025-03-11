@@ -1,5 +1,5 @@
 name: Grott Alpha branch (3.0)
-version: 794cce6
+version: c6bf5a9
 slug: grott-beta
 description: The Growatt inverter monitor with current HA plugin integrated
 url: https://github.com/egguy/addon-grott-beta
@@ -13,7 +13,7 @@ services:
 - mqtt:need
 init: false
 map:
-- config:rw
+- addon_config:rw
 ports:
   5279/tcp: 5279
 ports_description:
