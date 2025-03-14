@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/login-action action to v3.4.0 (#120)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #119 from egguy/bugfix/load_from_config_dir
 
 fix: Updated dockerFile + run script to load layout 
