@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update docker/login-action action to v3.4.0 (#137)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #136 from egguy/bugfix/load_layout
 
 fix: update script to load layout 
