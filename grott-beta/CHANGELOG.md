@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.35-r0 (#122)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update actions/cache action to v4.2.3 (#121)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
