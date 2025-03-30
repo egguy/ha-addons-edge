@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update pytest-testinfra to v10.2.2 (#124)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pytest-testinfra to v10.2.1 (#123)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
