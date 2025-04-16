@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.36-r0 (#143)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pytest-testinfra to v10.2.2 (#140)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
