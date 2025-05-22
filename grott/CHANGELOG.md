@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.37-r0 (#147)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/build-push-action action to v6.17.0 (#146)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
