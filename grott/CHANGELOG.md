@@ -1,4 +1,10 @@
 # Changelog since v0.1.12
+- ⬆️ Update requests to v2.32.4 (#151)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update pytest to v8.4.0 (#150)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/build-push-action action to v6.18.0 (#149)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
