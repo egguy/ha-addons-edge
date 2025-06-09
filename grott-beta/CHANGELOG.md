@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update requests to v2.32.4 (#134)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pytest to v8.4.0 (#133)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
