@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update docker/setup-buildx-action action to v3.11.1 (#154)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pytest to v8.4.1 (#153)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
