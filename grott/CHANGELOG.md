@@ -1,4 +1,7 @@
 # Changelog since v0.1.12
+- ⬆️ Update actions/cache action to v4.2.4 (#159)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/login-action action to v3.5.0 (#158)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
