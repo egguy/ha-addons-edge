@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.39-r0 (#144)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update requests to v2.32.5 (#143)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
