@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update psutil to v7.1.0 (#146)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update actions/cache action to v4.3.0 (#147)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
