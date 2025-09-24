@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update actions/cache action to v4.3.0 (#147)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update pytest to v8.4.2 (#145)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
