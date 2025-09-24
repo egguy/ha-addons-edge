@@ -1,4 +1,10 @@
 # Changelog since v0.1.12
+- ⬆️ Update actions/cache action to v4.3.0 (#167)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update pytest to v8.4.2 (#165)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/bind-tools to v9.18.39-r0 (#163)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
