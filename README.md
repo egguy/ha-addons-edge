@@ -103,10 +103,10 @@ For a general repository issue or add-on ideas [open an issue here][issue]
 
 
 
-[addon-grott-beta]: https://github.com/egguy/addon-grott-beta/tree/1251c1f
-[addon-doc-grott-beta]: https://github.com/egguy/addon-grott-beta/blob/1251c1f/README.md
+[addon-grott-beta]: https://github.com/egguy/addon-grott-beta/tree/6b627c8
+[addon-doc-grott-beta]: https://github.com/egguy/addon-grott-beta/blob/6b627c8/README.md
 [grott-beta-issue]: https://github.com/egguy/addon-grott-beta/issues
-[grott-beta-version-shield]: https://img.shields.io/badge/version-1251c1f-blue.svg
+[grott-beta-version-shield]: https://img.shields.io/badge/version-6b627c8-blue.svg
 [grott-beta-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [grott-beta-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [grott-beta-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

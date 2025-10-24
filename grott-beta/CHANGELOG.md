@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update alpine_3_20/bind-tools to v9.18.41-r0 (#152)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/login-action action to v3.6.0 (#149)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
