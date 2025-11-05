@@ -1,4 +1,10 @@
 # Changelog since v0.1.7
+- ⬆️ Update docker/setup-qemu-action action to v3.7.0 (#154)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update psutil to v7.1.1 (#151)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update alpine_3_20/bind-tools to v9.18.41-r0 (#152)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
