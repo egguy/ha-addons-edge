@@ -1,4 +1,7 @@
 # Changelog since v0.1.7
+- ⬆️ Update psutil to v7.1.3 (#153)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/setup-qemu-action action to v3.7.0 (#154)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
